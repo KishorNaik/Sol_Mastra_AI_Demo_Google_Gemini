@@ -125,7 +125,7 @@ Now, to run the Mastra AI agent that orchestrates the communication with your To
 
     ```env
     GOOGLE_GENERATIVE_AI_API_KEY=YOUR_GIMINI_KEY
-    ENCRYPTION_KEY=RWw5ejc0Wzjq0i0T2ZTZhcYu44fQI5M6
+    ENCRYPTION_KEY=RWw5ejc0Wzjq0i0T2ZTZhcYu44fQI5M7
     BASE_URL=http://localhost:3000 # The base URL of your Todo REST API
     ```
 
