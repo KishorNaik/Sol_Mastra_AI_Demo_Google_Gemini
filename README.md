@@ -1,4 +1,4 @@
-# Todo AI Agent Tool using Mastra AI with Gemini Model
+# Todo AI Agent Tool using Mastra AI with Google Gemini Model
 
 ## Description
 
