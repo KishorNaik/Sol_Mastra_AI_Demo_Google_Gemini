@@ -6,7 +6,7 @@ This project demonstrates how to build an intelligent AI agent that can manage a
 
 ## Built With
 
-* **Mastra AI:** A TypeScript framework for building AI agents and applications.
+* **[Mastra AI](https://mastra.ai/).:** A TypeScript framework for building AI agents and applications.
 * **TypeScript:** A strongly typed superset of JavaScript.
 * **Google Gemini:** A state-of-the-art large language model from Google, used for the AI agent's reasoning and natural language understanding.
 
